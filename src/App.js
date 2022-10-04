@@ -24,6 +24,22 @@ function App() {
             <h3>Cartagena</h3>
             <p>Cartagena is the crown jewel of Colombia's Caribbean coast and one of the best-preserved colonial destinations in the Americas. Take a stroll through the historic walled city, and you may feel as if you've stepped back in time to a different era.</p>
           </div>
+          <div>
+            <h3>Medellin</h3>
+            <p>Bogotá might be the Colombian capital, but it's the smaller and more manageable city of Medellin that tends to capture the hearts of visitors. Medellin was dubbed the most dangerous city in the world in the early 1990s, but a quarter of a century later, it has earned a reputation for something entirely different: innovation.</p>
+          </div>
+          <div>
+            <h3>Eje Cafetero</h3>
+            <p>The world's third-largest producer of coffee beans, Colombia is a fantastic country for tastings and tours. The vast majority of production takes place in the subtropical Andean hills west of Bogota between the small cities of Armenia, Pereira, and Manizales. This region, known as the Eje Cafetero (or Coffee Axis), is home to a growing number of coffee plantations that have opened up their operations to the public in recent years for tours, tastings, and lavish farm stays.</p>
+          </div>
+          <div>
+            <h3>Leticia</h3>
+            <p>Picture the Amazon, and Colombia may not be the first country to come to mind – which is odd, because about a third of the nation is blanketed in its thick (and often impenetrable) jungles. The capital of the vast Amazon Basin is the small frontier town of Leticia, which sits along the banks of the mighty Amazon River, right where Colombia bumps up against Brazil and Peru.</p>
+          </div>
+          <div>
+            <h3>Tayrona National Natural Park</h3>
+            <p>You'll find some of the best beaches in Colombia within the protected Tayrona National Natural Park, which is known for its palm-shaded coves and crystal-clear coastal lagoons. Most beaches are set against the dramatic mountains of the Sierra Nevada de Santa Marta, whose rainforested hills make for a great side trip on any beach vacation.</p>
+          </div>
         </section>
       </main>
       <footer>
