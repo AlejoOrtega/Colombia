@@ -15,14 +15,17 @@ function App() {
       <main>
         <section>
           <h2>About Colombia</h2>
-          <p>Colombia is one of the world's seventeen megadiverse countries; it has the second-highest level of biodiversity in the world.[15] Its territory encompasses Amazon rainforest, highlands, grasslands and deserts. It is the only country in South America with coastlines and islands along both the Atlantic and Pacific oceans.</p>
+          <p>Colombia is one of the world's seventeen megadiverse countries; it has the second-highest level of biodiversity in the world. Its territory encompasses Amazon rainforest, highlands, grasslands and deserts. It is the only country in South America with coastlines and islands along both the Atlantic and Pacific oceans.</p>
         </section>
 
         <section>
           <h2>Places to go!</h2>
           <div>
             <h3>Cartagena</h3>
-            <p>Cartagena is the crown jewel of Colombia's Caribbean coast and one of the best-preserved colonial destinations in the Americas. Take a stroll through the historic walled city, and you may feel as if you've stepped back in time to a different era.</p>
+            <div className='place-content'>
+              <img src='https://wallpapercave.com/wp/wp3350867.jpg' alt='Cartagena Imagen'/>
+              <p>Cartagena is the crown jewel of Colombia's Caribbean coast and one of the best-preserved colonial destinations in the Americas. Take a stroll through the historic walled city, and you may feel as if you've stepped back in time to a different era.</p>
+            </div>
           </div>
           <div>
             <h3>Medellin</h3>

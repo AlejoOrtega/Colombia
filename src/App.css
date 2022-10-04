@@ -1,3 +1,20 @@
+section{
+  width: 100%;
+}
+
+section h2 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+a{
+  margin: 0px 10px;
+}
+
 .App{
   width: 100%;
 }
@@ -8,10 +25,11 @@
   align-items: center;
 }
 
-nav{
-  
+.place-content{
+  display: flex;
+  justify-content: space;
 }
 
-a{
-  margin: 0px 10px;
+.place-content > * {
+  margin: 0px 5px;
 }
