@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className="app-container">
+        
         <header className="App-header">
           <h1>Welcome to Colombia</h1>
           <nav>
@@ -59,11 +60,12 @@ function App() {
             </div>
           </section>
         </main>
-        <footer>
-
-        </footer>
       </div>
+      <footer>
+
+      </footer>
     </div>
+
   );
 }
 
