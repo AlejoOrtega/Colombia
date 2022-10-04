@@ -27,7 +27,6 @@ a{
 
 .place-content{
   display: flex;
-  justify-content: space;
 }
 
 .place-content > * {
